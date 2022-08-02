@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tick-inside-circle@1.5x</title>
+    <g id="Distributor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tick-inside-circle" fill="#28C064" fill-rule="nonzero">
+            <path d="M9.44,12.96 L7.2,15.2 L14.4,22.4 L30.4,6.4 L28.16,4.16 L14.4,17.92 L9.44,12.96 Z M28.8,16 C28.8,23.04 23.04,28.8 16,28.8 C8.96,28.8 3.2,23.04 3.2,16 C3.2,8.96 8.96,3.2 16,3.2 C17.28,3.2 18.4,3.36 19.52,3.68 L22.0800627,1.12 C20.16,0.48 18.08,0 16,0 C7.2,0 0,7.2 0,16 C0,24.8 7.2,32 16,32 C24.8,32 32,24.8 32,16 L28.8,16 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

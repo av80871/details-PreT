@@ -1,0 +1,65 @@
+{
+    "referenceId": null,
+    "externalRefId": null,
+    "status": "200",
+    "messageCode": "",
+    "message": "SUCCESS",
+    "listlocaleMaster": [
+        {
+            "lanugage": "en",
+            "country": "US",
+            "name": "English",
+            "languageCode": 0,
+            "message": "LANG1",
+            "charset": "UTF-8",
+            "encoding": "UTF-8",
+            "status": "Y",
+            "type": "BOTH",
+            "coding": "N",
+            "sequenceNo": 1,
+            "rightToLeftAllow": false
+        },
+        {
+            "lanugage": "fr",
+            "country": "NG",
+            "name": "French",
+            "languageCode": 1,
+            "message": "LANG2",
+            "charset": "ISO-8859-15",
+            "encoding": "ISO-8859-15",
+            "status": "Y",
+            "type": "SMS",
+            "coding": "N",
+            "sequenceNo": 2,
+            "rightToLeftAllow": false
+        },
+        {
+            "lanugage": "sp",
+            "country": "PE",
+            "name": "Spanish",
+            "languageCode": 3,
+            "message": "LANG2",
+            "charset": "UTF-8",
+            "encoding": "UTF-8",
+            "status": "Y",
+            "type": "SMS",
+            "coding": "N",
+            "sequenceNo": 4,
+            "rightToLeftAllow": false
+        },
+        {
+            "lanugage": "ar",
+            "country": "NG",
+            "name": "Arabic",
+            "languageCode": 2,
+            "message": "LANG3",
+            "charset": "UTF-8",
+            "encoding": "UTF-8",
+            "status": "Y",
+            "type": "BOTH",
+            "coding": "N",
+            "sequenceNo": 6,
+            "rightToLeftAllow": true
+        }
+    ]
+}

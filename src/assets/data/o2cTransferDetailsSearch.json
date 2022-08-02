@@ -1,0 +1,38 @@
+{
+  "service": null,
+  "referenceId": null,
+  "status": "200",
+  "messageCode": "9020",
+  "message": "Success",
+  "errorMap": null,
+  "successList": [],
+  "o2cTransferDetailList": [
+    {
+      "transdateTime": "16/06/21 00:00:00",
+      "transactionID": "OT210616.1419.100001",
+      "senderName": null,
+      "senderMsisdn": null,
+      "receiverName": "PrasadRavi",
+      "receiverMsisdn": "987641322",
+      "receiverQuantity": "10000",
+      "transferCategory": "SALE",
+      "transferSubType": "Transfer",
+      "modifiedOn": "16/06/21 00:00:00",
+      "externalTransferNumber": "565656",
+      "externalTransferDate": "16/06/21 00:00:00",
+      "transactionMode": "Transfer",
+      "requestedQuantity": "10000",
+      "approvedQuantity": "10000",
+      "commission": "1",
+      "cumulativeBaseCommission": "1",
+      "tax1": "0",
+      "tax2": "0",
+      "payableAmount": "99",
+      "netPayableAmount": "99",
+      "initiatorRemarks": "rvrvrv",
+      "approver1Remarks": "vrrvfvfv",
+      "approver2Remarks": null,
+      "productName": "Prepaid Etop up"
+    }
+  ]
+}

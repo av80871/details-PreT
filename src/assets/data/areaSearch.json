@@ -1,0 +1,23 @@
+{
+	"outletAllow": "N",
+	"status": 200,
+	"messageCode": "241283",
+	"message": "Area search was successfull.",
+	"errorMap": null,
+	"areaList": [{
+		"geoName": "Haryana",
+		"geoCode": "HARYANA",
+		"geoDomainSequenceNo": "4",
+		"geoDomainName": "Sub Area",
+		"isDefault": "Y",
+		"geoList": null
+	}, {
+		"geoName": "UP (West)",
+		"geoCode": "UW",
+		"geoDomainSequenceNo": "4",
+		"geoDomainName": "Sub Area",
+		"isDefault": "Y",
+		"geoList": null
+	}],
+	"hierarchyLength": 1
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 28</title>
+    <g id="Distributor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Recharge-EMPTY-1" transform="translate(-1233.000000, -206.000000)">
+            <g id="Group-7" transform="translate(1229.000000, 206.000000)">
+                <g id="Group-28" transform="translate(4.000000, 0.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="56" height="56"></rect>
+                    <g id="Group-27" transform="translate(7.000000, 4.000000)">
+                        <g id="Group-15" transform="translate(-0.000000, 0.000000)">
+                            <rect id="mobile-color" fill="#FF385C" x="0" y="0" width="25.6666667" height="45.5" rx="3"></rect>
+                            <g id="Group-12" transform="translate(2.333333, 4.666667)" fill="#EF9A9A">
+                                <rect id="Rectangle" x="0" y="0" width="20.9561194" height="35"></rect>
+                            </g>
+                        </g>
+                        <rect id="Rectangle" fill="#212B35" x="12.5229885" y="18.1666667" width="30" height="19" rx="2"></rect>
+                        <g id="voucher" transform="translate(13.522989, 19.166667)" fill-rule="nonzero">
+                            <g id="Group-26">
+                                <path d="M26,6.47379032 L26,1.07896505 C26,0.483110784 25.5985655,1.08357767e-13 25.1034483,1.08357767e-13 L0.896551724,1.08357767e-13 C0.401434509,1.08357767e-13 0,0.483110784 0,1.07896505 L0,6.47379032 C0.990234375,6.47379032 1.79310345,7.44001196 1.79310345,8.63172043 C1.79310345,9.8234289 0.990234375,10.7896505 0,10.7896505 L0,16.1844758 C0,16.7803301 0.401434509,17.2634409 0.896551724,17.2634409 L25.1034483,17.2634409 C25.5985655,17.2634409 26,16.7803301 26,16.1844758 L26,10.7896505 C25.0097656,10.7896505 24.2068966,9.8234289 24.2068966,8.63172043 C24.2068966,7.44001196 25.0097656,6.47379032 26,6.47379032 Z" id="Path" fill="#C20C3F"></path>
+                                <g id="Group" transform="translate(19.000000, 1.000000)" fill="#FEF1D8">
+                                    <polygon id="Path" points="0 2.55769231 1.58333333 2.55769231 1.58333333 3.83653846 0 3.83653846"></polygon>
+                                    <polygon id="Path" points="0 5.11538462 1.58333333 5.11538462 1.58333333 6.39423077 0 6.39423077"></polygon>
+                                    <polygon id="Path" points="0 7.67307692 1.58333333 7.67307692 1.58333333 8.95192308 0 8.95192308"></polygon>
+                                    <polygon id="Path" points="0 10.2307692 1.58333333 10.2307692 1.58333333 11.5096154 0 11.5096154"></polygon>
+                                    <polygon id="Path" points="0 12.7884615 1.58333333 12.7884615 1.58333333 14.0673077 0 14.0673077"></polygon>
+                                    <polygon id="Path" points="0 0 1.58333333 0 1.58333333 1.27884615 0 1.27884615"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

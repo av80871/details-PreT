@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E9CAF09B-90E9-4103-A9DD-CD678107FC41@1.5x</title>
+    <g id="VMS-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard" transform="translate(-279.000000, -1164.000000)">
+            <g id="Group-12" transform="translate(279.000000, 1164.000000)">
+                <circle id="Oval" fill="#F9FAFB" cx="46" cy="46" r="46"></circle>
+                <g id="Group-29-Copy" transform="translate(23.000000, 32.000000)" stroke="#6DBEF8" stroke-width="2">
+                    <path d="M36,-10.5 L11,-10.5 C10.4477153,-10.5 9.94771525,-10.2761424 9.58578644,-9.91421356 C9.22385763,-9.55228475 9,-9.05228475 9,-8.5 L9,36.5 C9,37.0522847 9.22385763,37.5522847 9.58578644,37.9142136 C9.94771525,38.2761424 10.4477153,38.5 11,38.5 L36,38.5 C36.5522847,38.5 37.0522847,38.2761424 37.4142136,37.9142136 C37.7761424,37.5522847 38,37.0522847 38,36.5 L38,-8.5 C38,-9.05228475 37.7761424,-9.55228475 37.4142136,-9.91421356 C37.0522847,-10.2761424 36.5522847,-10.5 36,-10.5 Z" id="Rectangle" transform="translate(23.500000, 14.000000) rotate(-270.000000) translate(-23.500000, -14.000000) "></path>
+                    <line x1="30.5" y1="15.5" x2="30.5" y2="20.5" id="Path-9-Copy-2"></line>
+                    <line x1="30.5" y1="22.5" x2="30.5" y2="27.5" id="Path-9-Copy-3"></line>
+                    <line x1="30.5" y1="7.5" x2="30.5" y2="12.5" id="Path-9-Copy"></line>
+                    <line x1="30.5" y1="0.5" x2="30.5" y2="5.5" id="Path-9"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

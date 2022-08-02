@@ -1,0 +1,54 @@
+{
+    "service": null,
+    "referenceId": null,
+    "status": "200",
+    "messageCode": "9020",
+    "message": "Success",
+    "errorMap": null,
+    "successList": [],
+    "listApprovalList": [
+      {
+        "userID": "NGD0000210101",
+        "userName": "ramkum rame",
+        "msisdn": "728049649",
+        "userStatus": "Active",
+        "createdBY": "btchadm"
+      },
+      {
+        "userID": "NGD0000210101",
+        "userName": "ramkum rame",
+        "msisdn": "728049649",
+        "userStatus": "Active",
+        "createdBY": "btchadm"
+      },
+      {
+        "userID": "NGD0000210101",
+        "userName": "ramkum rame",
+        "msisdn": "728049649",
+        "userStatus": "Active",
+        "createdBY": "btchadm"
+      },
+      {
+        "userID": "NGD0000210101",
+        "userName": "ramkum rame",
+        "msisdn": "728049649",
+        "userStatus": "Active",
+        "createdBY": "btchadm"
+      },
+      {
+        "userID": "NGD0000210101",
+        "userName": "ramkum rame",
+        "msisdn": "728049649",
+        "userStatus": "Active",
+        "createdBY": "btchadm"
+      },
+      {
+        "userID": "NGD0000210101",
+        "userName": "ramkum rame",
+        "msisdn": "728049649",
+        "userStatus": "Active",
+        "createdBY": "btchadm"
+      }
+    ]
+  }
+  

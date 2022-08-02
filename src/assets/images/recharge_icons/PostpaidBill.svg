@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="58px" viewBox="0 0 56 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10</title>
+    <g id="Distributor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Recharge-EMPTY-1" transform="translate(-490.000000, -204.000000)">
+            <g id="Group-10" transform="translate(490.000000, 205.000000)">
+                <g id="Group-18" transform="translate(0.000000, 1.000000)">
+                    <g id="Group-17" transform="translate(16.000000, 6.000000)">
+                        <g id="Group-15">
+                            <rect id="mobile-color" fill="#FF385C" x="0" y="0" width="24.2377451" height="42.9669118" rx="3"></rect>
+                            <g id="Group-12" transform="translate(2.203431, 4.406863)" fill="#EF9A9A">
+                                <rect id="Rectangle" x="0" y="0" width="19.7894447" height="33.0514706"></rect>
+                            </g>
+                        </g>
+                        <circle id="Oval" fill="#EF9A9A" cx="11.3088235" cy="40.3088235" r="1.36764706"></circle>
+                    </g>
+                    <rect id="Rectangle-Copy-9" x="0" y="0" width="56" height="56"></rect>
+                </g>
+                <circle id="Oval" stroke="#212B35" stroke-width="1.7" fill="#FFFFFF" cx="38.5" cy="10.5" r="10.5"></circle>
+                <path d="M37.5835968,15.3383127 C37.2778562,15.9825027 37.5522653,16.7526213 38.1964553,17.0583619 C38.8402149,17.3640164 39.6105917,17.0899516 39.9164184,16.4455034 L42.3740496,11.2671079 C42.7799822,10.4116883 42.1552454,9.4223351 41.2076388,9.4223351 L38.295184,9.4223351 L39.9259728,5.82437403 C40.2203514,5.17493345 39.9325145,4.40972116 39.2829879,4.1154286 C38.6336334,3.82113605 37.8684211,4.10897293 37.5740425,4.75841351 L35.1164112,10.1805753 C34.7292431,11.0347037 35.3553572,12.0046899 36.2923764,12.0046899 L39.1657529,12.0046899 L37.5835968,15.3383127 Z" id="Path" fill="#FF385C" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 21</title>
+    <g id="Distributor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Approval-level-1-batch_-transfer-approval" transform="translate(-26.000000, -308.000000)">
+            <g id="Group-5" transform="translate(-4.000000, 18.000000)">
+                <g id="Group-21" transform="translate(31.000000, 291.000000)">
+                    <rect id="Rectangle-Copy-4" stroke="#DCDCDC" fill="#212B35" stroke-linejoin="round" x="7.5" y="4.28571429" width="7.5" height="7.5" rx="1"></rect>
+                    <rect id="Rectangle-Copy-5" stroke="#DCDCDC" fill="#212B35" stroke-linejoin="round" x="3.21428571" y="0" width="7.5" height="7.5" rx="3.5"></rect>
+                    <path d="M0,8.03571429 L0,11.3214286 C-4.33869274e-17,11.8737133 0.44771525,12.3214286 1,12.3214286 L3.21428571,12.3214286 L3.21428571,12.3214286" id="Path-8-Copy" stroke="#DCDCDC" stroke-linejoin="round"></path>
+                    <polygon id="Triangle-Copy" fill="#DCDCDC" transform="translate(4.553571, 12.321429) rotate(-270.000000) translate(-4.553571, -12.321429) " points="4.55357143 10.9821429 7.23214286 13.6607143 1.875 13.6607143"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

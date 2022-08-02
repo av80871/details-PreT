@@ -1,0 +1,21 @@
+{
+  "Denomination": "فئة",
+  "Help": "مساعدة",
+  "User manual": "دليل الاستخدام",
+  "FAQs": "أسئلة وأجوبة",
+  "Change Password": "تغيير كلمة السر",
+  "Logout": "تسجيل خروج",
+  "Login ID": "اسمك",
+  "Welcome to": "مرحبا بك في",
+  "Login ID is required.": "معرف تسجيل الدخول مطلوب.",
+  "Password": "كلمة المرور",
+  "Password is required.": "كلمة المرور مطلوبة.",
+  "LOGIN": "تسجيل الدخول",
+  "Forgot Password?": "هل نسيت كلمة السر؟",
+  "Approval Level 1": "مستوى الموافقة 1",
+  "Batch name": "اسم دفعة",
+  "Subscriber Management": "إدارة المشتركين",
+  "Voucher Download" : "تنزيل القسيمة",
+  "Security Settings": "اعدادات الامان",
+  "Overview Dashboard": "نظرة عامة على لوحة القيادة"
+}
